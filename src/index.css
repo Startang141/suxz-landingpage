@@ -1,3 +1,9 @@
+@font-face {
+    font-family: 'Manrope';
+    src: url('./fonts/Manrope-VariableFont_wght.ttf') format('truetype');
+    /* tambahkan varian-varian lainnya jika ada */
+  }
+
 @tailwind base;
 @tailwind components;
 @tailwind utilities;

@@ -6,7 +6,7 @@ import hamburger from "../assets/Hamburger.svg";
 function navbar() {
     return (
         <div>
-            <div className="flex justify-between mt-7 mx-7 sm:mt-8 sm:items-center md:mt-10 md:mx-12 xl:mt-14 xl:mx-20">
+            <div className="flex justify-between sm:items-center">
             <img src={logo} className="w-[100px] sm:w-[120px] md:w-[130px]"></img>
             <img src={hamburger} className="sm:hidden"></img>
             <div className="hidden sm:block">

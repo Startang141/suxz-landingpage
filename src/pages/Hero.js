@@ -12,7 +12,7 @@ function hero() {
             <h5 className="text-indigo-400 text-sm md:text-base font-semibold md:font-bold">S U X Z  M A K E  I T  E A S Y </h5>
             <h2 className="font-bold text-4xl w-[80%] text-gray-900 my-1 leading-snug sm:w-[45%] md:text-6xl md:w-[50%] md:leading-snug">Find Your Way Of Success</h2>
             <p className="text-gray-800 my-2 text-sm w-[97%] sm:w-[45%] md:text-lg xl:my-6 xl:w-[40%]">We help you to increase self-confidence and train yourself in a direction, and make you more creative in developing a work</p>
-            <div className="mt-6 justify-evenly text-sm md:text-lg font-semibold md:mt-10">
+            <div className="mt-6 mb-8 justify-evenly text-sm md:text-lg font-semibold md:mt-10">
                 <button className="bg-indigo-400 text-white px-8 py-3 mr-3 xl:mr-8 rounded-md xl:px-12 xl:py-3"><a>Get Started</a></button>
                 <button className="bg-gray-100 text-zinc-400 px-7 py-3 rounded-md xl:px-12 xl:py-3"><a>Our Services</a></button>
             </div>

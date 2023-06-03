@@ -4,8 +4,8 @@ import headIMG from "../assets/header_img.svg";
 
 function hero() {
     return (
-    <div className="sm:flex md:mt-14">
-        <div className="w-[320px] mt-2 -ml-6 sm:w-[360px] md:w-[500px] sm:absolute sm:right-0 sm:mr-7 md:mr-12 xl:w-[600px] xl:mr-20">
+    <div className="sm:flex md:mt-14 xl:mt-28">
+        <div className="w-[320px] mt-2 -ml-6 sm:w-[360px] md:w-[500px] sm:absolute sm:right-0 sm:mr-7 md:mr-12 xl:w-[650px] xl:mr-20">
         <img src={headIMG}></img>
         </div>
         <div className="mt-6 sm:mt-20 md:mt-24 xl:mt-20">
